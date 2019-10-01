@@ -8,3 +8,10 @@ Dont't forget to install node packages.
 npm install
 
 ```
+
+### Example:
+
+```
+node app -d "Buenos Aires"
+
+```
